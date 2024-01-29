@@ -9,6 +9,13 @@
     <lastBuildDate>Wed, 24 Jan 2024 16:04:54 +0530</lastBuildDate>
     <atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About</title>
+      <link>/blog/about/</link>
+      <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/blog/about/</guid>
+      <description>Hey there, and a big warm welcome to my little corner of the internet! I&amp;rsquo;m your friendly neighborhood Technical Writer, with a dash of passion for demystifying the often tangled world of tech. Picture me as your guide through the maze, turning the cryptic into the clear with just a flick of the pen (or a click of the keyboard, to be more 21st century about it).&#xA;My tale begins in the vibrant, pulsating heart of India, where I first dipped my toes into the vast ocean of technical writing.</description>
+    </item>
+    <item>
       <title>GhostintheAttic</title>
       <link>/blog/posts/ghostintheattic/</link>
       <pubDate>Wed, 24 Jan 2024 16:04:54 +0530</pubDate>
