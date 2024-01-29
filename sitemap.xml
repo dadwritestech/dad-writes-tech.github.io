@@ -2,45 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/categories/</loc>
+    <loc>https://dadwritestech.github.io/categories/</loc>
     <lastmod>2024-01-24T16:04:54+05:30</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://dadwritestech.github.io/</loc>
     <lastmod>2024-01-24T16:04:54+05:30</lastmod>
   </url><url>
-    <loc>/posts/ghostintheattic/</loc>
+    <loc>https://dadwritestech.github.io/posts/ghostintheattic/</loc>
     <lastmod>2024-01-24T16:04:54+05:30</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>https://dadwritestech.github.io/posts/</loc>
     <lastmod>2024-01-24T16:04:54+05:30</lastmod>
   </url><url>
-    <loc>/series/</loc>
+    <loc>https://dadwritestech.github.io/series/</loc>
     <lastmod>2024-01-24T16:04:54+05:30</lastmod>
   </url><url>
-    <loc>/series/short-stories/</loc>
+    <loc>https://dadwritestech.github.io/series/short-stories/</loc>
     <lastmod>2024-01-24T16:04:54+05:30</lastmod>
   </url><url>
-    <loc>/categories/short-stories/</loc>
+    <loc>https://dadwritestech.github.io/categories/short-stories/</loc>
     <lastmod>2024-01-24T16:04:54+05:30</lastmod>
   </url><url>
-    <loc>/tags/short-story/</loc>
+    <loc>https://dadwritestech.github.io/tags/short-story/</loc>
     <lastmod>2024-01-24T16:04:54+05:30</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://dadwritestech.github.io/tags/</loc>
     <lastmod>2024-01-24T16:04:54+05:30</lastmod>
   </url><url>
-    <loc>/tags/test/</loc>
+    <loc>https://dadwritestech.github.io/tags/test/</loc>
     <lastmod>2024-01-24T16:04:54+05:30</lastmod>
   </url><url>
-    <loc>/categories/test/</loc>
+    <loc>https://dadwritestech.github.io/categories/test/</loc>
     <lastmod>2024-01-24T16:04:54+05:30</lastmod>
   </url><url>
-    <loc>/series/test/</loc>
+    <loc>https://dadwritestech.github.io/series/test/</loc>
     <lastmod>2024-01-24T16:04:54+05:30</lastmod>
   </url><url>
-    <loc>/posts/testpost/</loc>
+    <loc>https://dadwritestech.github.io/posts/testpost/</loc>
     <lastmod>2024-01-24T16:04:54+05:30</lastmod>
   </url><url>
-    <loc>/archives/</loc>
+    <loc>https://dadwritestech.github.io/archives/</loc>
   </url>
 </urlset>

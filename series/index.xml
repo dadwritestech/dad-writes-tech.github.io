@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Dad Writes Tech</title>
-    <link>/series/</link>
+    <link>https://dadwritestech.github.io/series/</link>
     <description>Recent content in Series on Dad Writes Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 24 Jan 2024 16:04:54 +0530</lastBuildDate>
-    <atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dadwritestech.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Short-Stories</title>
-      <link>/series/short-stories/</link>
+      <link>https://dadwritestech.github.io/series/short-stories/</link>
       <pubDate>Wed, 24 Jan 2024 16:04:54 +0530</pubDate>
-      <guid>/series/short-stories/</guid>
+      <guid>https://dadwritestech.github.io/series/short-stories/</guid>
       <description></description>
     </item>
     <item>
       <title>Test</title>
-      <link>/series/test/</link>
+      <link>https://dadwritestech.github.io/series/test/</link>
       <pubDate>Wed, 24 Jan 2024 16:04:54 +0530</pubDate>
-      <guid>/series/test/</guid>
+      <guid>https://dadwritestech.github.io/series/test/</guid>
       <description></description>
     </item>
   </channel>
