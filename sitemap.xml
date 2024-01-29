@@ -47,5 +47,9 @@
     <loc>/blog/archives/</loc>
   </url><url>
     <loc>/blog/authors/</loc>
+  </url><url>
+    <loc>/blog/contact/</loc>
+  </url><url>
+    <loc>/blog/projects/</loc>
   </url>
 </urlset>
