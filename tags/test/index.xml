@@ -13,14 +13,14 @@
       <link>/blog/posts/testpost/</link>
       <pubDate>Wed, 24 Jan 2024 16:04:54 +0530</pubDate>
       <guid>/blog/posts/testpost/</guid>
-      <description>This is a test post</description>
+      <description></description>
     </item>
     <item>
       <title>Test 2</title>
       <link>/blog/posts/testpost2/</link>
       <pubDate>Wed, 24 Jan 2024 16:04:54 +0530</pubDate>
       <guid>/blog/posts/testpost2/</guid>
-      <description>This is a test post #2</description>
+      <description>{ &amp;#34;This&amp;#34;:&amp;#34;is code&amp;#34; } </description>
     </item>
   </channel>
 </rss>
