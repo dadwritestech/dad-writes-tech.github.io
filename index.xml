@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dad Writes Tech</title>
-    <link>/blog/</link>
+    <link>https://www.dad-writes-tech.com/</link>
     <description>Recent content on Dad Writes Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Jan 2024 16:04:54 +0530</lastBuildDate>
-    <atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Jan 2024 01:15:29 +0100</lastBuildDate>
+    <atom:link href="https://www.dad-writes-tech.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>/blog/about/</link>
+      <link>https://www.dad-writes-tech.com/about/</link>
       <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/blog/about/</guid>
+      <guid>https://www.dad-writes-tech.com/about/</guid>
       <description>Hey there, and a big warm welcome to my little corner of the internet! I&amp;rsquo;m your friendly neighborhood Technical Writer, with a dash of passion for demystifying the often tangled world of tech. Picture me as your guide through the maze, turning the cryptic into the clear with just a flick of the pen (or a click of the keyboard, to be more 21st century about it).&#xA;My tale begins in the vibrant, pulsating heart of India, where I first dipped my toes into the vast ocean of technical writing.</description>
     </item>
     <item>
       <title>GhostintheAttic</title>
-      <link>/blog/posts/ghostintheattic/</link>
+      <link>https://www.dad-writes-tech.com/posts/ghostintheattic/</link>
       <pubDate>Wed, 24 Jan 2024 16:04:54 +0530</pubDate>
-      <guid>/blog/posts/ghostintheattic/</guid>
+      <guid>https://www.dad-writes-tech.com/posts/ghostintheattic/</guid>
       <description>Max&amp;rsquo;s adventure teaches us that embracing our true selves is the secret ingredient to forming genuine friendships, proving that being authentically you is the best way to connect with others.</description>
     </item>
     <item>
       <title>Test 1</title>
-      <link>/blog/posts/testpost/</link>
+      <link>https://www.dad-writes-tech.com/posts/testpost/</link>
       <pubDate>Wed, 24 Jan 2024 16:04:54 +0530</pubDate>
-      <guid>/blog/posts/testpost/</guid>
+      <guid>https://www.dad-writes-tech.com/posts/testpost/</guid>
       <description></description>
     </item>
     <item>
       <title>Test 2</title>
-      <link>/blog/posts/testpost2/</link>
+      <link>https://www.dad-writes-tech.com/posts/testpost2/</link>
       <pubDate>Wed, 24 Jan 2024 16:04:54 +0530</pubDate>
-      <guid>/blog/posts/testpost2/</guid>
+      <guid>https://www.dad-writes-tech.com/posts/testpost2/</guid>
       <description>{ &amp;#34;This&amp;#34;:&amp;#34;is code&amp;#34; } </description>
     </item>
     <item>
       <title>Archive</title>
-      <link>/blog/archives/</link>
+      <link>https://www.dad-writes-tech.com/archives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/blog/archives/</guid>
+      <guid>https://www.dad-writes-tech.com/archives/</guid>
       <description>archives</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>/blog/contact/</link>
+      <link>https://www.dad-writes-tech.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/blog/contact/</guid>
+      <guid>https://www.dad-writes-tech.com/contact/</guid>
       <description>You can always contact me by email.</description>
     </item>
     <item>
       <title>Projects</title>
-      <link>/blog/projects/</link>
+      <link>https://www.dad-writes-tech.com/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/blog/projects/</guid>
+      <guid>https://www.dad-writes-tech.com/projects/</guid>
       <description>This page will soon be updated with links to my projects as a Technical Writer.</description>
     </item>
   </channel>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Dad Writes Tech</title>
-    <link>/blog/categories/</link>
+    <link>https://www.dad-writes-tech.com/categories/</link>
     <description>Recent content in Categories on Dad Writes Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 24 Jan 2024 16:04:54 +0530</lastBuildDate>
-    <atom:link href="/blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.dad-writes-tech.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Short-Stories</title>
-      <link>/blog/categories/short-stories/</link>
+      <link>https://www.dad-writes-tech.com/categories/short-stories/</link>
       <pubDate>Wed, 24 Jan 2024 16:04:54 +0530</pubDate>
-      <guid>/blog/categories/short-stories/</guid>
+      <guid>https://www.dad-writes-tech.com/categories/short-stories/</guid>
       <description></description>
     </item>
     <item>
       <title>test</title>
-      <link>/blog/categories/test/</link>
+      <link>https://www.dad-writes-tech.com/categories/test/</link>
       <pubDate>Wed, 24 Jan 2024 16:04:54 +0530</pubDate>
-      <guid>/blog/categories/test/</guid>
+      <guid>https://www.dad-writes-tech.com/categories/test/</guid>
       <description></description>
     </item>
   </channel>

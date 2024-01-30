@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Test on Dad Writes Tech</title>
-    <link>/blog/series/test/</link>
+    <link>https://www.dad-writes-tech.com/series/test/</link>
     <description>Recent content in Test on Dad Writes Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 24 Jan 2024 16:04:54 +0530</lastBuildDate>
-    <atom:link href="/blog/series/test/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.dad-writes-tech.com/series/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test 1</title>
-      <link>/blog/posts/testpost/</link>
+      <link>https://www.dad-writes-tech.com/posts/testpost/</link>
       <pubDate>Wed, 24 Jan 2024 16:04:54 +0530</pubDate>
-      <guid>/blog/posts/testpost/</guid>
+      <guid>https://www.dad-writes-tech.com/posts/testpost/</guid>
       <description></description>
     </item>
     <item>
       <title>Test 2</title>
-      <link>/blog/posts/testpost2/</link>
+      <link>https://www.dad-writes-tech.com/posts/testpost2/</link>
       <pubDate>Wed, 24 Jan 2024 16:04:54 +0530</pubDate>
-      <guid>/blog/posts/testpost2/</guid>
+      <guid>https://www.dad-writes-tech.com/posts/testpost2/</guid>
       <description>{ &amp;#34;This&amp;#34;:&amp;#34;is code&amp;#34; } </description>
     </item>
   </channel>
