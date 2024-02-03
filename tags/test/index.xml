@@ -13,14 +13,14 @@
       <link>https://www.dad-writes-tech.com/posts/testpost/</link>
       <pubDate>Wed, 24 Jan 2024 16:04:54 +0530</pubDate>
       <guid>https://www.dad-writes-tech.com/posts/testpost/</guid>
-      <description></description>
+      <description>This is a test post</description>
     </item>
     <item>
       <title>Test 2</title>
       <link>https://www.dad-writes-tech.com/posts/testpost2/</link>
       <pubDate>Wed, 24 Jan 2024 16:04:54 +0530</pubDate>
       <guid>https://www.dad-writes-tech.com/posts/testpost2/</guid>
-      <description>{ &amp;#34;This&amp;#34;:&amp;#34;is code&amp;#34; } </description>
+      <description>This is a test post #2</description>
     </item>
   </channel>
 </rss>
