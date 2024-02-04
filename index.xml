@@ -62,7 +62,10 @@
       <link>https://www.dad-writes-tech.com/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.dad-writes-tech.com/projects/</guid>
-      <description>This page will soon be updated with links to my projects as a Technical Writer.</description>
+      <description>This space contains links to the projects I&amp;rsquo;ve dedicated some time to. It&amp;rsquo;s like opening a window to my world of technical writing! It ain&amp;rsquo;t perfect, but it&amp;rsquo;s my own little treasure trove!
+Markdown Practice - A github Pages site holding some of my early days of Markdown practice
+API Documentation #1 - Example documentation for smart Devices API
+API Documentation #2 - Example documentation for a Candy Store API</description>
     </item>
   </channel>
 </rss>
